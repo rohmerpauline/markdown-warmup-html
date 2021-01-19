@@ -1,0 +1,21 @@
+body {
+    color : #010440;
+    background-color : #f28d95;
+    font-family : Arial, Helvetica, sans-serif;
+}
+.titre { 
+    font-size : 25px;
+    font-weight : 500;
+    text-shadow : 2px 2px 3px #010440;
+    letter-spacing: : 15px;
+    word-spacing: 20px;
+}
+.image { 
+    display: block;
+    margin-left:  auto;
+    margin-right: auto;
+    width: 50%;
+}
+.bieres {
+    list-style-type: lower-alpha;
+}
